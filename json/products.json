@@ -1,0 +1,221 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "sku": "LUM-1037",
+      "brand": "Lumio",
+      "title": "Lumio Desk Lamp LED",
+      "description": "Adjustable LED desk lamp with three color temperatures and a USB-C charging port.",
+      "category": "home-decoration",
+      "price": 39.9,
+      "currency": "EUR",
+      "discountPercentage": 12.5,
+      "rating": 4.6,
+      "stock": 34,
+      "tags": [
+        "home",
+        "lighting"
+      ],
+      "images": [
+        "https://activia-net.github.io/cdn/image/landscape/1920x1080/01.jpg",
+        "https://activia-net.github.io/cdn/image/landscape/1920x1080/06.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "sku": "NOR-1074",
+      "brand": "Nordwind",
+      "title": "Nordwind Trail Backpack 30L",
+      "description": "Lightweight hiking backpack with a rain cover and a ventilated back panel.",
+      "category": "sports-accessories",
+      "price": 79,
+      "currency": "EUR",
+      "discountPercentage": 0,
+      "rating": 4.4,
+      "stock": 18,
+      "tags": [
+        "outdoor",
+        "hiking",
+        "bags"
+      ],
+      "images": [
+        "https://activia-net.github.io/cdn/image/landscape/1920x1080/02.jpg",
+        "https://activia-net.github.io/cdn/image/landscape/1920x1080/07.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "sku": "AQU-1111",
+      "brand": "Aquaria",
+      "title": "Aquaria Insulated Bottle 750 ml",
+      "description": "Stainless steel bottle that keeps drinks cold for 24 hours and hot for 12 hours.",
+      "category": "kitchen-accessories",
+      "price": 24.5,
+      "currency": "EUR",
+      "discountPercentage": 5,
+      "rating": 4.8,
+      "stock": 120,
+      "tags": [
+        "kitchen",
+        "outdoor"
+      ],
+      "images": [
+        "https://activia-net.github.io/cdn/image/landscape/1920x1080/03.jpg",
+        "https://activia-net.github.io/cdn/image/landscape/1920x1080/08.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "sku": "SON-1148",
+      "brand": "Sonix",
+      "title": "Sonix Wireless Earbuds Pro",
+      "description": "Noise-cancelling earbuds with a 30-hour battery life and a wireless charging case.",
+      "category": "mobile-accessories",
+      "price": 129.99,
+      "currency": "USD",
+      "discountPercentage": 15,
+      "rating": 4.3,
+      "stock": 0,
+      "tags": [
+        "audio",
+        "wireless"
+      ],
+      "images": [
+        "https://activia-net.github.io/cdn/image/landscape/1920x1080/04.jpg",
+        "https://activia-net.github.io/cdn/image/landscape/1920x1080/09.jpg",
+        "https://activia-net.github.io/cdn/image/landscape/1600x900/02.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "sku": "SON-1185",
+      "brand": "Sonix",
+      "title": "Sonix Bluetooth Speaker Mini",
+      "description": "Waterproof portable speaker with 12 hours of playback.",
+      "category": "mobile-accessories",
+      "price": 49.99,
+      "currency": "USD",
+      "discountPercentage": 10,
+      "rating": 4.1,
+      "stock": 56,
+      "tags": [
+        "audio",
+        "outdoor"
+      ],
+      "images": [
+        "https://activia-net.github.io/cdn/image/landscape/1920x1080/05.jpg",
+        "https://activia-net.github.io/cdn/image/landscape/1920x1080/10.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "sku": "VER-1222",
+      "brand": "Verdant",
+      "title": "Verdant Organic Green Tea",
+      "description": "Box of 40 organic green tea bags from Japanese plantations.",
+      "category": "groceries",
+      "price": 6.9,
+      "currency": "EUR",
+      "discountPercentage": 0,
+      "rating": 4.7,
+      "stock": 240,
+      "tags": [
+        "groceries",
+        "tea",
+        "organic"
+      ],
+      "images": [
+        "https://activia-net.github.io/cdn/image/landscape/1920x1080/06.jpg",
+        "https://activia-net.github.io/cdn/image/landscape/1920x1080/11.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "sku": "KAF-1259",
+      "brand": "Kaffa",
+      "title": "Kaffa Espresso Beans 1 kg",
+      "description": "Medium roast arabica beans with notes of chocolate and hazelnut.",
+      "category": "groceries",
+      "price": 18.5,
+      "currency": "EUR",
+      "discountPercentage": 8,
+      "rating": 4.5,
+      "stock": 75,
+      "tags": [
+        "groceries",
+        "coffee"
+      ],
+      "images": [
+        "https://activia-net.github.io/cdn/image/landscape/1920x1080/07.jpg",
+        "https://activia-net.github.io/cdn/image/landscape/1920x1080/12.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "sku": "PIX-1296",
+      "brand": "Pixela",
+      "title": "Pixela 27\" 4K Monitor",
+      "description": "IPS monitor with HDR10 support, a USB-C input and a height-adjustable stand.",
+      "category": "laptops",
+      "price": 349,
+      "currency": "EUR",
+      "discountPercentage": 20,
+      "rating": 4.6,
+      "stock": 9,
+      "tags": [
+        "computers",
+        "display"
+      ],
+      "images": [
+        "https://activia-net.github.io/cdn/image/landscape/1920x1080/08.jpg",
+        "https://activia-net.github.io/cdn/image/landscape/1920x1080/13.jpg",
+        "https://activia-net.github.io/cdn/image/landscape/1600x900/03.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "sku": "PIX-1333",
+      "brand": "Pixela",
+      "title": "Pixela Mechanical Keyboard",
+      "description": "Compact mechanical keyboard with hot-swappable switches and RGB backlight.",
+      "category": "laptops",
+      "price": 89.9,
+      "currency": "EUR",
+      "discountPercentage": 0,
+      "rating": 4.2,
+      "stock": 41,
+      "tags": [
+        "computers",
+        "keyboard"
+      ],
+      "images": [
+        "https://activia-net.github.io/cdn/image/landscape/1920x1080/09.jpg",
+        "https://activia-net.github.io/cdn/image/landscape/1920x1080/14.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "sku": "ALB-1370",
+      "brand": "Alba",
+      "title": "Alba Linen Bed Set",
+      "description": "Washed linen duvet cover and two pillowcases, double size.",
+      "category": "home-decoration",
+      "price": 119,
+      "currency": "EUR",
+      "discountPercentage": 25,
+      "rating": 4.9,
+      "stock": 14,
+      "tags": [
+        "home",
+        "bedroom"
+      ],
+      "images": [
+        "https://activia-net.github.io/cdn/image/landscape/1920x1080/10.jpg",
+        "https://activia-net.github.io/cdn/image/landscape/1920x1080/15.jpg"
+      ]
+    }
+  ],
+  "total": 10,
+  "skip": 0,
+  "limit": 10
+}
