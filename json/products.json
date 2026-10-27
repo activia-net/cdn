@@ -17,8 +17,7 @@
         "lighting"
       ],
       "images": [
-        "https://activia-net.github.io/cdn/image/landscape/1920x1080/01.jpg",
-        "https://activia-net.github.io/cdn/image/landscape/1920x1080/06.jpg"
+        "https://activia-net.github.io/cdn/image/product/img01.jpg"
       ]
     },
     {
@@ -39,8 +38,7 @@
         "bags"
       ],
       "images": [
-        "https://activia-net.github.io/cdn/image/landscape/1920x1080/02.jpg",
-        "https://activia-net.github.io/cdn/image/landscape/1920x1080/07.jpg"
+        "https://activia-net.github.io/cdn/image/product/img02.jpg"
       ]
     },
     {
@@ -60,8 +58,7 @@
         "outdoor"
       ],
       "images": [
-        "https://activia-net.github.io/cdn/image/landscape/1920x1080/03.jpg",
-        "https://activia-net.github.io/cdn/image/landscape/1920x1080/08.jpg"
+        "https://activia-net.github.io/cdn/image/product/img03.jpg"
       ]
     },
     {
@@ -81,9 +78,7 @@
         "wireless"
       ],
       "images": [
-        "https://activia-net.github.io/cdn/image/landscape/1920x1080/04.jpg",
-        "https://activia-net.github.io/cdn/image/landscape/1920x1080/09.jpg",
-        "https://activia-net.github.io/cdn/image/landscape/1600x900/02.jpg"
+        "https://activia-net.github.io/cdn/image/product/img04.jpg"
       ]
     },
     {
@@ -103,8 +98,7 @@
         "outdoor"
       ],
       "images": [
-        "https://activia-net.github.io/cdn/image/landscape/1920x1080/05.jpg",
-        "https://activia-net.github.io/cdn/image/landscape/1920x1080/10.jpg"
+        "https://activia-net.github.io/cdn/image/product/img05.jpg"
       ]
     },
     {
@@ -125,8 +119,7 @@
         "organic"
       ],
       "images": [
-        "https://activia-net.github.io/cdn/image/landscape/1920x1080/06.jpg",
-        "https://activia-net.github.io/cdn/image/landscape/1920x1080/11.jpg"
+        "https://activia-net.github.io/cdn/image/product/img06.png"
       ]
     },
     {
@@ -146,8 +139,7 @@
         "coffee"
       ],
       "images": [
-        "https://activia-net.github.io/cdn/image/landscape/1920x1080/07.jpg",
-        "https://activia-net.github.io/cdn/image/landscape/1920x1080/12.jpg"
+        "https://activia-net.github.io/cdn/image/product/img07.png"
       ]
     },
     {
@@ -167,9 +159,7 @@
         "display"
       ],
       "images": [
-        "https://activia-net.github.io/cdn/image/landscape/1920x1080/08.jpg",
-        "https://activia-net.github.io/cdn/image/landscape/1920x1080/13.jpg",
-        "https://activia-net.github.io/cdn/image/landscape/1600x900/03.jpg"
+        "https://activia-net.github.io/cdn/image/product/img08.png"
       ]
     },
     {
@@ -189,8 +179,7 @@
         "keyboard"
       ],
       "images": [
-        "https://activia-net.github.io/cdn/image/landscape/1920x1080/09.jpg",
-        "https://activia-net.github.io/cdn/image/landscape/1920x1080/14.jpg"
+        "https://activia-net.github.io/cdn/image/product/img09.png"
       ]
     },
     {
@@ -210,8 +199,7 @@
         "bedroom"
       ],
       "images": [
-        "https://activia-net.github.io/cdn/image/landscape/1920x1080/10.jpg",
-        "https://activia-net.github.io/cdn/image/landscape/1920x1080/15.jpg"
+        "https://activia-net.github.io/cdn/image/product/img10.png"
       ]
     }
   ],
