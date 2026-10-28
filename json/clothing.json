@@ -4,230 +4,620 @@
       "id": 1,
       "sku": "SOL-1037",
       "brand": "Kläda",
-      "title": "SOLVÄRG Sports set",
-      "description": "Light sports set with a fitted top and a pleated skirt in quick-dry fabric.",
-      "category": "Women's Summer",
       "department": "women",
-      "price": 34.99,
-      "currency": "CAD",
-      "symbol": null,
       "discountPercentage": 10,
       "rating": 4.5,
       "stock": 42,
-      "tags": [
-        "women",
-        "sportswear",
-        "pink"
-      ],
       "images": [
         "https://activia-net.github.io/cdn/image/product/img1.jpg"
+      ],
+      "localizations": [
+        {
+          "country": "US",
+          "language": "en",
+          "title": "SOLVÄRG Sports set",
+          "description": "Light sports set with a fitted top and a pleated skirt in quick-dry fabric.",
+          "category": "Women's Summer",
+          "tags": [
+            "women",
+            "sportswear",
+            "pink"
+          ],
+          "price": 34.99,
+          "displayPrice": "$34.99",
+          "currency": "USD",
+          "symbol": "$"
+        },
+        {
+          "country": "CA",
+          "language": "fr",
+          "title": "Ensemble de sport SOLVÄRG",
+          "description": "Ensemble de sport léger avec un haut ajusté et une jupe plissée en tissu à séchage rapide.",
+          "category": "Été Femme",
+          "tags": [
+            "femme",
+            "sport",
+            "rose"
+          ],
+          "price": 47.99,
+          "displayPrice": "47,99 $",
+          "currency": "CAD",
+          "symbol": "$"
+        },
+        {
+          "country": "FR",
+          "language": "fr",
+          "title": "Ensemble de sport SOLVÄRG",
+          "description": "Ensemble de sport léger avec un haut ajusté et une jupe plissée en tissu à séchage rapide.",
+          "category": "Été Femme",
+          "tags": [
+            "femme",
+            "sport",
+            "rose"
+          ],
+          "price": 32.99,
+          "displayPrice": "32,99 €",
+          "currency": "EUR",
+          "symbol": "€"
+        }
       ]
     },
     {
       "id": 2,
       "sku": "MOR-1074",
       "brand": "Kläda",
-      "title": "MÖRKLID Cardigan",
-      "description": "Short fine-knit cardigan with a round neck and button front.",
-      "category": "Women's Autumn",
       "department": "women",
-      "price": 29.99,
-      "currency": "EUR",
-      "symbol": "€",
       "discountPercentage": 0,
       "rating": 4.6,
       "stock": 85,
-      "tags": [
-        "women",
-        "knitwear",
-        "black"
-      ],
       "images": [
         "https://activia-net.github.io/cdn/image/product/img2.jpg"
+      ],
+      "localizations": [
+        {
+          "country": "US",
+          "language": "en",
+          "title": "MÖRKLID Cardigan",
+          "description": "Short fine-knit cardigan with a round neck and button front.",
+          "category": "Women's Autumn",
+          "tags": [
+            "women",
+            "knitwear",
+            "black"
+          ],
+          "price": 29.99,
+          "displayPrice": "$29.99",
+          "currency": "USD",
+          "symbol": "$"
+        },
+        {
+          "country": "CA",
+          "language": "fr",
+          "title": "Cardigan MÖRKLID",
+          "description": "Cardigan court en tricot fin, col rond et boutonnage devant.",
+          "category": "Automne Femme",
+          "tags": [
+            "femme",
+            "tricot",
+            "noir"
+          ],
+          "price": 39.99,
+          "displayPrice": "39,99 $",
+          "currency": "CAD",
+          "symbol": "$"
+        },
+        {
+          "country": "FR",
+          "language": "fr",
+          "title": "Cardigan MÖRKLID",
+          "description": "Cardigan court en maille fine, col rond et boutonnage devant.",
+          "category": "Automne Femme",
+          "tags": [
+            "femme",
+            "maille",
+            "noir"
+          ],
+          "price": 27.99,
+          "displayPrice": "27,99 €",
+          "currency": "EUR",
+          "symbol": "€"
+        }
       ]
     },
     {
       "id": 3,
       "sku": "GRA-1111",
       "brand": "Kläda",
-      "title": "GRÅVIK Sweater",
-      "description": "Soft knit sweater with short sleeves and a relaxed fit.",
-      "category": "Women's Autumn",
       "department": "women",
-      "price": 24.99,
-      "currency": "CAD",
-      "symbol": null,
       "discountPercentage": 15,
       "rating": 4.3,
       "stock": 120,
-      "tags": [
-        "women",
-        "knitwear",
-        "grey"
-      ],
       "images": [
         "https://activia-net.github.io/cdn/image/product/img3.jpg"
+      ],
+      "localizations": [
+        {
+          "country": "US",
+          "language": "en",
+          "title": "GRÅVIK Sweater",
+          "description": "Soft knit sweater with short sleeves and a relaxed fit.",
+          "category": "Women's Autumn",
+          "tags": [
+            "women",
+            "knitwear",
+            "grey"
+          ],
+          "price": 24.99,
+          "displayPrice": "$24.99",
+          "currency": "USD",
+          "symbol": "$"
+        },
+        {
+          "country": "CA",
+          "language": "fr",
+          "title": "Chandail GRÅVIK",
+          "description": "Chandail en tricot doux à manches courtes et coupe ample.",
+          "category": "Automne Femme",
+          "tags": [
+            "femme",
+            "tricot",
+            "gris"
+          ],
+          "price": 34.99,
+          "displayPrice": "34,99 $",
+          "currency": "CAD",
+          "symbol": "$"
+        },
+        {
+          "country": "FR",
+          "language": "fr",
+          "title": "Pull GRÅVIK",
+          "description": "Pull en maille douce à manches courtes et coupe ample.",
+          "category": "Automne Femme",
+          "tags": [
+            "femme",
+            "maille",
+            "gris"
+          ],
+          "price": 22.99,
+          "displayPrice": "22,99 €",
+          "currency": "EUR",
+          "symbol": "€"
+        }
       ]
     },
     {
       "id": 4,
       "sku": "SVA-1148",
       "brand": "Kläda",
-      "title": "SVARTHAGA Hoodie",
-      "description": "Heavy cotton-blend hoodie with a full zip and side pockets.",
-      "category": "Men's Autumn",
       "department": "men",
-      "price": 39.99,
-      "currency": "USD",
-      "symbol": "$",
       "discountPercentage": 0,
       "rating": 4.7,
       "stock": 0,
-      "tags": [
-        "men",
-        "sweatshirts",
-        "black"
-      ],
       "images": [
         "https://activia-net.github.io/cdn/image/product/img4.jpg"
+      ],
+      "localizations": [
+        {
+          "country": "US",
+          "language": "en",
+          "title": "SVARTHAGA Hoodie",
+          "description": "Heavy cotton-blend hoodie with a full zip and side pockets.",
+          "category": "Men's Autumn",
+          "tags": [
+            "men",
+            "sweatshirts",
+            "black"
+          ],
+          "price": 39.99,
+          "displayPrice": "$39.99",
+          "currency": "USD",
+          "symbol": "$"
+        },
+        {
+          "country": "CA",
+          "language": "fr",
+          "title": "Kangourou SVARTHAGA",
+          "description": "Kangourou épais en coton mélangé, à fermeture éclair pleine longueur, avec poches latérales.",
+          "category": "Automne Homme",
+          "tags": [
+            "homme",
+            "cotons ouatés",
+            "noir"
+          ],
+          "price": 54.99,
+          "displayPrice": "54,99 $",
+          "currency": "CAD",
+          "symbol": "$"
+        },
+        {
+          "country": "FR",
+          "language": "fr",
+          "title": "Sweat à capuche SVARTHAGA",
+          "description": "Sweat à capuche épais en coton mélangé, entièrement zippé, avec poches latérales.",
+          "category": "Automne Homme",
+          "tags": [
+            "homme",
+            "sweats",
+            "noir"
+          ],
+          "price": 36.99,
+          "displayPrice": "36,99 €",
+          "currency": "EUR",
+          "symbol": "€"
+        }
       ]
     },
     {
       "id": 5,
       "sku": "DIM-1185",
       "brand": "Kläda",
-      "title": "DIMBRO Sweatshirt",
-      "description": "Relaxed-fit sweatshirt with dropped shoulders and ribbed cuffs.",
-      "category": "Men's Autumn",
       "department": "men",
-      "price": 27.99,
-      "currency": "EUR",
-      "symbol": "€",
       "discountPercentage": 20,
       "rating": 4.2,
       "stock": 64,
-      "tags": [
-        "men",
-        "sweatshirts",
-        "grey"
-      ],
       "images": [
         "https://activia-net.github.io/cdn/image/product/img5.jpg"
+      ],
+      "localizations": [
+        {
+          "country": "US",
+          "language": "en",
+          "title": "DIMBRO Sweatshirt",
+          "description": "Relaxed-fit sweatshirt with dropped shoulders and ribbed cuffs.",
+          "category": "Men's Autumn",
+          "tags": [
+            "men",
+            "sweatshirts",
+            "grey"
+          ],
+          "price": 27.99,
+          "displayPrice": "$27.99",
+          "currency": "USD",
+          "symbol": "$"
+        },
+        {
+          "country": "CA",
+          "language": "fr",
+          "title": "Coton ouaté DIMBRO",
+          "description": "Coton ouaté coupe ample avec épaules tombantes et poignets côtelés.",
+          "category": "Automne Homme",
+          "tags": [
+            "homme",
+            "cotons ouatés",
+            "gris"
+          ],
+          "price": 37.99,
+          "displayPrice": "37,99 $",
+          "currency": "CAD",
+          "symbol": "$"
+        },
+        {
+          "country": "FR",
+          "language": "fr",
+          "title": "Sweat DIMBRO",
+          "description": "Sweat coupe ample avec épaules tombantes et poignets côtelés.",
+          "category": "Automne Homme",
+          "tags": [
+            "homme",
+            "sweats",
+            "gris"
+          ],
+          "price": 25.99,
+          "displayPrice": "25,99 €",
+          "currency": "EUR",
+          "symbol": "€"
+        }
       ]
     },
     {
       "id": 6,
       "sku": "MOS-1222",
       "brand": "Kläda",
-      "title": "MOSSTORP Parka",
-      "description": "Water-repellent quilted parka with a hood and a warm padded lining.",
-      "category": "Men's Winter",
       "department": "men",
-      "price": 79.99,
-      "currency": "EUR",
-      "symbol": "€",
       "discountPercentage": 0,
       "rating": 4.6,
       "stock": 23,
-      "tags": [
-        "men",
-        "outerwear",
-        "green"
-      ],
       "images": [
         "https://activia-net.github.io/cdn/image/product/img6.png"
+      ],
+      "localizations": [
+        {
+          "country": "US",
+          "language": "en",
+          "title": "MOSSTORP Parka",
+          "description": "Water-repellent quilted parka with a hood and a warm padded lining.",
+          "category": "Men's Winter",
+          "tags": [
+            "men",
+            "outerwear",
+            "green"
+          ],
+          "price": 79.99,
+          "displayPrice": "$79.99",
+          "currency": "USD",
+          "symbol": "$"
+        },
+        {
+          "country": "CA",
+          "language": "fr",
+          "title": "Parka MOSSTORP",
+          "description": "Parka matelassée déperlante avec capuche et doublure rembourrée chaude.",
+          "category": "Hiver Homme",
+          "tags": [
+            "homme",
+            "manteaux",
+            "vert"
+          ],
+          "price": 109.99,
+          "displayPrice": "109,99 $",
+          "currency": "CAD",
+          "symbol": "$"
+        },
+        {
+          "country": "FR",
+          "language": "fr",
+          "title": "Parka MOSSTORP",
+          "description": "Parka matelassée déperlante avec capuche et doublure rembourrée chaude.",
+          "category": "Hiver Homme",
+          "tags": [
+            "homme",
+            "manteaux",
+            "vert"
+          ],
+          "price": 74.99,
+          "displayPrice": "74,99 €",
+          "currency": "EUR",
+          "symbol": "€"
+        }
       ]
     },
     {
       "id": 7,
       "sku": "STE-1259",
       "brand": "Kläda",
-      "title": "STENVIKEN Coat",
-      "description": "Double-breasted coat in a wool blend with notch lapels.",
-      "category": "Men's Winter",
       "department": "men",
-      "price": 129,
-      "currency": "EUR",
-      "symbol": "€",
       "discountPercentage": 10,
       "rating": 4.8,
       "stock": 15,
-      "tags": [
-        "men",
-        "outerwear",
-        "grey"
-      ],
       "images": [
         "https://activia-net.github.io/cdn/image/product/img7.png"
+      ],
+      "localizations": [
+        {
+          "country": "US",
+          "language": "en",
+          "title": "STENVIKEN Coat",
+          "description": "Double-breasted coat in a wool blend with notch lapels.",
+          "category": "Men's Winter",
+          "tags": [
+            "men",
+            "outerwear",
+            "grey"
+          ],
+          "price": 129,
+          "displayPrice": "$129.00",
+          "currency": "USD",
+          "symbol": "$"
+        },
+        {
+          "country": "CA",
+          "language": "fr",
+          "title": "Manteau STENVIKEN",
+          "description": "Manteau croisé en laine mélangée avec revers crantés.",
+          "category": "Hiver Homme",
+          "tags": [
+            "homme",
+            "manteaux",
+            "gris"
+          ],
+          "price": 179,
+          "displayPrice": "179,00 $",
+          "currency": "CAD",
+          "symbol": "$"
+        },
+        {
+          "country": "FR",
+          "language": "fr",
+          "title": "Manteau STENVIKEN",
+          "description": "Manteau croisé en laine mélangée avec revers crantés.",
+          "category": "Hiver Homme",
+          "tags": [
+            "homme",
+            "manteaux",
+            "gris"
+          ],
+          "price": 119,
+          "displayPrice": "119,00 €",
+          "currency": "EUR",
+          "symbol": "€"
+        }
       ]
     },
     {
       "id": 8,
       "sku": "STR-1296",
       "brand": "Kläda",
-      "title": "STRANDLÖK Linen set",
-      "description": "Loose linen-blend shirt and matching wide trousers for warm days.",
-      "category": "Women's Summer",
       "department": "women",
-      "price": 49.99,
-      "currency": "EUR",
-      "symbol": "€",
       "discountPercentage": 25,
       "rating": 4.4,
       "stock": 38,
-      "tags": [
-        "women",
-        "linen",
-        "beige"
-      ],
       "images": [
         "https://activia-net.github.io/cdn/image/product/img8.png"
+      ],
+      "localizations": [
+        {
+          "country": "US",
+          "language": "en",
+          "title": "STRANDLÖK Linen set",
+          "description": "Loose linen-blend shirt and matching wide trousers for warm days.",
+          "category": "Women's Summer",
+          "tags": [
+            "women",
+            "linen",
+            "beige"
+          ],
+          "price": 49.99,
+          "displayPrice": "$49.99",
+          "currency": "USD",
+          "symbol": "$"
+        },
+        {
+          "country": "CA",
+          "language": "fr",
+          "title": "Ensemble en lin STRANDLÖK",
+          "description": "Chemise ample en lin mélangé et pantalon large assorti pour les journées chaudes.",
+          "category": "Été Femme",
+          "tags": [
+            "femme",
+            "lin",
+            "beige"
+          ],
+          "price": 67.99,
+          "displayPrice": "67,99 $",
+          "currency": "CAD",
+          "symbol": "$"
+        },
+        {
+          "country": "FR",
+          "language": "fr",
+          "title": "Ensemble en lin STRANDLÖK",
+          "description": "Chemise ample en lin mélangé et pantalon large assorti pour les beaux jours.",
+          "category": "Été Femme",
+          "tags": [
+            "femme",
+            "lin",
+            "beige"
+          ],
+          "price": 45.99,
+          "displayPrice": "45,99 €",
+          "currency": "EUR",
+          "symbol": "€"
+        }
       ]
     },
     {
       "id": 9,
       "sku": "LIN-1333",
       "brand": "Kläda",
-      "title": "LINGONÅS Coat",
-      "description": "Fitted wool-blend coat with a belt and wide lapels.",
-      "category": "Women's Winter",
       "department": "women",
-      "price": 119,
-      "currency": "EUR",
-      "symbol": "€",
       "discountPercentage": 0,
       "rating": 4.7,
       "stock": 11,
-      "tags": [
-        "women",
-        "outerwear",
-        "burgundy"
-      ],
       "images": [
         "https://activia-net.github.io/cdn/image/product/img9.png"
+      ],
+      "localizations": [
+        {
+          "country": "US",
+          "language": "en",
+          "title": "LINGONÅS Coat",
+          "description": "Fitted wool-blend coat with a belt and wide lapels.",
+          "category": "Women's Winter",
+          "tags": [
+            "women",
+            "outerwear",
+            "burgundy"
+          ],
+          "price": 119,
+          "displayPrice": "$119.00",
+          "currency": "USD",
+          "symbol": "$"
+        },
+        {
+          "country": "CA",
+          "language": "fr",
+          "title": "Manteau LINGONÅS",
+          "description": "Manteau ajusté en laine mélangée avec ceinture et larges revers.",
+          "category": "Hiver Femme",
+          "tags": [
+            "femme",
+            "manteaux",
+            "bordeaux"
+          ],
+          "price": 159,
+          "displayPrice": "159,00 $",
+          "currency": "CAD",
+          "symbol": "$"
+        },
+        {
+          "country": "FR",
+          "language": "fr",
+          "title": "Manteau LINGONÅS",
+          "description": "Manteau ajusté en laine mélangée avec ceinture et larges revers.",
+          "category": "Hiver Femme",
+          "tags": [
+            "femme",
+            "manteaux",
+            "bordeaux"
+          ],
+          "price": 109,
+          "displayPrice": "109,00 €",
+          "currency": "EUR",
+          "symbol": "€"
+        }
       ]
     },
     {
       "id": 10,
       "sku": "KAN-1370",
       "brand": "Kläda",
-      "title": "KANELBY Coat",
-      "description": "Long oversized coat in a soft wool blend with deep pockets.",
-      "category": "Women's Winter",
       "department": "women",
-      "price": 99.99,
-      "currency": "EUR",
-      "symbol": "€",
       "discountPercentage": 15,
       "rating": 4.9,
       "stock": 27,
-      "tags": [
-        "women",
-        "outerwear",
-        "camel"
-      ],
       "images": [
         "https://activia-net.github.io/cdn/image/product/img10.png"
+      ],
+      "localizations": [
+        {
+          "country": "US",
+          "language": "en",
+          "title": "KANELBY Coat",
+          "description": "Long oversized coat in a soft wool blend with deep pockets.",
+          "category": "Women's Winter",
+          "tags": [
+            "women",
+            "outerwear",
+            "camel"
+          ],
+          "price": 99.99,
+          "displayPrice": "$99.99",
+          "currency": "USD",
+          "symbol": "$"
+        },
+        {
+          "country": "CA",
+          "language": "fr",
+          "title": "Manteau KANELBY",
+          "description": "Manteau long ample en laine mélangée douce avec poches profondes.",
+          "category": "Hiver Femme",
+          "tags": [
+            "femme",
+            "manteaux",
+            "camel"
+          ],
+          "price": 134.99,
+          "displayPrice": "134,99 $",
+          "currency": "CAD",
+          "symbol": "$"
+        },
+        {
+          "country": "FR",
+          "language": "fr",
+          "title": "Manteau KANELBY",
+          "description": "Manteau long oversize en laine mélangée douce avec poches profondes.",
+          "category": "Hiver Femme",
+          "tags": [
+            "femme",
+            "manteaux",
+            "camel"
+          ],
+          "price": 92.99,
+          "displayPrice": "92,99 €",
+          "currency": "EUR",
+          "symbol": "€"
+        }
       ]
     }
   ],
