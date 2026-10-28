@@ -45,6 +45,22 @@
           "symbol": "$"
         },
         {
+          "country": "CA",
+          "language": "en",
+          "title": "SOLVÄRG Sports set",
+          "description": "Light sports set with a fitted top and a pleated skirt in quick-dry fabric.",
+          "category": "Women's Summer",
+          "tags": [
+            "women",
+            "sportswear",
+            "pink"
+          ],
+          "price": 47.99,
+          "displayPrice": "$47.99",
+          "currency": "CAD",
+          "symbol": "$"
+        },
+        {
           "country": "FR",
           "language": "fr",
           "title": "Ensemble de sport SOLVÄRG",
@@ -57,6 +73,22 @@
           ],
           "price": 32.99,
           "displayPrice": "32,99 €",
+          "currency": "EUR",
+          "symbol": "€"
+        },
+        {
+          "country": "FR",
+          "language": "en",
+          "title": "SOLVÄRG Sports set",
+          "description": "Light sports set with a fitted top and a pleated skirt in quick-dry fabric.",
+          "category": "Women's Summer",
+          "tags": [
+            "women",
+            "sportswear",
+            "pink"
+          ],
+          "price": 32.99,
+          "displayPrice": "€32.99",
           "currency": "EUR",
           "symbol": "€"
         }
@@ -107,6 +139,22 @@
           "symbol": "$"
         },
         {
+          "country": "CA",
+          "language": "en",
+          "title": "MÖRKLID Cardigan",
+          "description": "Short fine-knit cardigan with a round neck and button front.",
+          "category": "Women's Autumn",
+          "tags": [
+            "women",
+            "knitwear",
+            "black"
+          ],
+          "price": 39.99,
+          "displayPrice": "$39.99",
+          "currency": "CAD",
+          "symbol": "$"
+        },
+        {
           "country": "FR",
           "language": "fr",
           "title": "Cardigan MÖRKLID",
@@ -119,6 +167,22 @@
           ],
           "price": 27.99,
           "displayPrice": "27,99 €",
+          "currency": "EUR",
+          "symbol": "€"
+        },
+        {
+          "country": "FR",
+          "language": "en",
+          "title": "MÖRKLID Cardigan",
+          "description": "Short fine-knit cardigan with a round neck and button front.",
+          "category": "Women's Autumn",
+          "tags": [
+            "women",
+            "knitwear",
+            "black"
+          ],
+          "price": 27.99,
+          "displayPrice": "€27.99",
           "currency": "EUR",
           "symbol": "€"
         }
@@ -169,6 +233,22 @@
           "symbol": "$"
         },
         {
+          "country": "CA",
+          "language": "en",
+          "title": "GRÅVIK Sweater",
+          "description": "Soft knit sweater with short sleeves and a relaxed fit.",
+          "category": "Women's Autumn",
+          "tags": [
+            "women",
+            "knitwear",
+            "grey"
+          ],
+          "price": 34.99,
+          "displayPrice": "$34.99",
+          "currency": "CAD",
+          "symbol": "$"
+        },
+        {
           "country": "FR",
           "language": "fr",
           "title": "Pull GRÅVIK",
@@ -181,6 +261,22 @@
           ],
           "price": 22.99,
           "displayPrice": "22,99 €",
+          "currency": "EUR",
+          "symbol": "€"
+        },
+        {
+          "country": "FR",
+          "language": "en",
+          "title": "GRÅVIK Sweater",
+          "description": "Soft knit sweater with short sleeves and a relaxed fit.",
+          "category": "Women's Autumn",
+          "tags": [
+            "women",
+            "knitwear",
+            "grey"
+          ],
+          "price": 22.99,
+          "displayPrice": "€22.99",
           "currency": "EUR",
           "symbol": "€"
         }
@@ -231,6 +327,22 @@
           "symbol": "$"
         },
         {
+          "country": "CA",
+          "language": "en",
+          "title": "SVARTHAGA Hoodie",
+          "description": "Heavy cotton-blend hoodie with a full zip and side pockets.",
+          "category": "Men's Autumn",
+          "tags": [
+            "men",
+            "sweatshirts",
+            "black"
+          ],
+          "price": 54.99,
+          "displayPrice": "$54.99",
+          "currency": "CAD",
+          "symbol": "$"
+        },
+        {
           "country": "FR",
           "language": "fr",
           "title": "Sweat à capuche SVARTHAGA",
@@ -243,6 +355,22 @@
           ],
           "price": 36.99,
           "displayPrice": "36,99 €",
+          "currency": "EUR",
+          "symbol": "€"
+        },
+        {
+          "country": "FR",
+          "language": "en",
+          "title": "SVARTHAGA Hoodie",
+          "description": "Heavy cotton-blend hoodie with a full zip and side pockets.",
+          "category": "Men's Autumn",
+          "tags": [
+            "men",
+            "sweatshirts",
+            "black"
+          ],
+          "price": 36.99,
+          "displayPrice": "€36.99",
           "currency": "EUR",
           "symbol": "€"
         }
@@ -293,6 +421,22 @@
           "symbol": "$"
         },
         {
+          "country": "CA",
+          "language": "en",
+          "title": "DIMBRO Sweatshirt",
+          "description": "Relaxed-fit sweatshirt with dropped shoulders and ribbed cuffs.",
+          "category": "Men's Autumn",
+          "tags": [
+            "men",
+            "sweatshirts",
+            "grey"
+          ],
+          "price": 37.99,
+          "displayPrice": "$37.99",
+          "currency": "CAD",
+          "symbol": "$"
+        },
+        {
           "country": "FR",
           "language": "fr",
           "title": "Sweat DIMBRO",
@@ -305,6 +449,22 @@
           ],
           "price": 25.99,
           "displayPrice": "25,99 €",
+          "currency": "EUR",
+          "symbol": "€"
+        },
+        {
+          "country": "FR",
+          "language": "en",
+          "title": "DIMBRO Sweatshirt",
+          "description": "Relaxed-fit sweatshirt with dropped shoulders and ribbed cuffs.",
+          "category": "Men's Autumn",
+          "tags": [
+            "men",
+            "sweatshirts",
+            "grey"
+          ],
+          "price": 25.99,
+          "displayPrice": "€25.99",
           "currency": "EUR",
           "symbol": "€"
         }
@@ -355,6 +515,22 @@
           "symbol": "$"
         },
         {
+          "country": "CA",
+          "language": "en",
+          "title": "MOSSTORP Parka",
+          "description": "Water-repellent quilted parka with a hood and a warm padded lining.",
+          "category": "Men's Winter",
+          "tags": [
+            "men",
+            "outerwear",
+            "green"
+          ],
+          "price": 109.99,
+          "displayPrice": "$109.99",
+          "currency": "CAD",
+          "symbol": "$"
+        },
+        {
           "country": "FR",
           "language": "fr",
           "title": "Parka MOSSTORP",
@@ -367,6 +543,22 @@
           ],
           "price": 74.99,
           "displayPrice": "74,99 €",
+          "currency": "EUR",
+          "symbol": "€"
+        },
+        {
+          "country": "FR",
+          "language": "en",
+          "title": "MOSSTORP Parka",
+          "description": "Water-repellent quilted parka with a hood and a warm padded lining.",
+          "category": "Men's Winter",
+          "tags": [
+            "men",
+            "outerwear",
+            "green"
+          ],
+          "price": 74.99,
+          "displayPrice": "€74.99",
           "currency": "EUR",
           "symbol": "€"
         }
@@ -417,6 +609,22 @@
           "symbol": "$"
         },
         {
+          "country": "CA",
+          "language": "en",
+          "title": "STENVIKEN Coat",
+          "description": "Double-breasted coat in a wool blend with notch lapels.",
+          "category": "Men's Winter",
+          "tags": [
+            "men",
+            "outerwear",
+            "grey"
+          ],
+          "price": 179,
+          "displayPrice": "$179.00",
+          "currency": "CAD",
+          "symbol": "$"
+        },
+        {
           "country": "FR",
           "language": "fr",
           "title": "Manteau STENVIKEN",
@@ -429,6 +637,22 @@
           ],
           "price": 119,
           "displayPrice": "119,00 €",
+          "currency": "EUR",
+          "symbol": "€"
+        },
+        {
+          "country": "FR",
+          "language": "en",
+          "title": "STENVIKEN Coat",
+          "description": "Double-breasted coat in a wool blend with notch lapels.",
+          "category": "Men's Winter",
+          "tags": [
+            "men",
+            "outerwear",
+            "grey"
+          ],
+          "price": 119,
+          "displayPrice": "€119.00",
           "currency": "EUR",
           "symbol": "€"
         }
@@ -479,6 +703,22 @@
           "symbol": "$"
         },
         {
+          "country": "CA",
+          "language": "en",
+          "title": "STRANDLÖK Linen set",
+          "description": "Loose linen-blend shirt and matching wide trousers for warm days.",
+          "category": "Women's Summer",
+          "tags": [
+            "women",
+            "linen",
+            "beige"
+          ],
+          "price": 67.99,
+          "displayPrice": "$67.99",
+          "currency": "CAD",
+          "symbol": "$"
+        },
+        {
           "country": "FR",
           "language": "fr",
           "title": "Ensemble en lin STRANDLÖK",
@@ -491,6 +731,22 @@
           ],
           "price": 45.99,
           "displayPrice": "45,99 €",
+          "currency": "EUR",
+          "symbol": "€"
+        },
+        {
+          "country": "FR",
+          "language": "en",
+          "title": "STRANDLÖK Linen set",
+          "description": "Loose linen-blend shirt and matching wide trousers for warm days.",
+          "category": "Women's Summer",
+          "tags": [
+            "women",
+            "linen",
+            "beige"
+          ],
+          "price": 45.99,
+          "displayPrice": "€45.99",
           "currency": "EUR",
           "symbol": "€"
         }
@@ -541,6 +797,22 @@
           "symbol": "$"
         },
         {
+          "country": "CA",
+          "language": "en",
+          "title": "LINGONÅS Coat",
+          "description": "Fitted wool-blend coat with a belt and wide lapels.",
+          "category": "Women's Winter",
+          "tags": [
+            "women",
+            "outerwear",
+            "burgundy"
+          ],
+          "price": 159,
+          "displayPrice": "$159.00",
+          "currency": "CAD",
+          "symbol": "$"
+        },
+        {
           "country": "FR",
           "language": "fr",
           "title": "Manteau LINGONÅS",
@@ -553,6 +825,22 @@
           ],
           "price": 109,
           "displayPrice": "109,00 €",
+          "currency": "EUR",
+          "symbol": "€"
+        },
+        {
+          "country": "FR",
+          "language": "en",
+          "title": "LINGONÅS Coat",
+          "description": "Fitted wool-blend coat with a belt and wide lapels.",
+          "category": "Women's Winter",
+          "tags": [
+            "women",
+            "outerwear",
+            "burgundy"
+          ],
+          "price": 109,
+          "displayPrice": "€109.00",
           "currency": "EUR",
           "symbol": "€"
         }
@@ -603,6 +891,22 @@
           "symbol": "$"
         },
         {
+          "country": "CA",
+          "language": "en",
+          "title": "KANELBY Coat",
+          "description": "Long oversized coat in a soft wool blend with deep pockets.",
+          "category": "Women's Winter",
+          "tags": [
+            "women",
+            "outerwear",
+            "camel"
+          ],
+          "price": 134.99,
+          "displayPrice": "$134.99",
+          "currency": "CAD",
+          "symbol": "$"
+        },
+        {
           "country": "FR",
           "language": "fr",
           "title": "Manteau KANELBY",
@@ -615,6 +919,22 @@
           ],
           "price": 92.99,
           "displayPrice": "92,99 €",
+          "currency": "EUR",
+          "symbol": "€"
+        },
+        {
+          "country": "FR",
+          "language": "en",
+          "title": "KANELBY Coat",
+          "description": "Long oversized coat in a soft wool blend with deep pockets.",
+          "category": "Women's Winter",
+          "tags": [
+            "women",
+            "outerwear",
+            "camel"
+          ],
+          "price": 92.99,
+          "displayPrice": "€92.99",
           "currency": "EUR",
           "symbol": "€"
         }
